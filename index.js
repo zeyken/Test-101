@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["watching 444"];
-const statusTypes = [ 'dnd'];
+const statusTypes = [ 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
